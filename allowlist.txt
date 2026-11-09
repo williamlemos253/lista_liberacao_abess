@@ -60,3 +60,4 @@ meta.com
 linkedin.com
 licdn.com
 linkedin.cn
+cloudflareinsights.com
