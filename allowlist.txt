@@ -50,3 +50,6 @@ www.dominiosistemas.com.br
 www.dominioweb.com.br
 www.veeam.com
 zoom-general.s3.amazonaws.com
+web.whatsapp.com
+whatsapp.com
+
