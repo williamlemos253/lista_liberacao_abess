@@ -52,4 +52,6 @@ www.veeam.com
 zoom-general.s3.amazonaws.com
 web.whatsapp.com
 whatsapp.com
+static.whatsapp.net
+whatsapp.net
 
