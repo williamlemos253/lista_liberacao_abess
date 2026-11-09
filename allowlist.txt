@@ -57,3 +57,6 @@ whatsapp.net
 wa.me
 whatsappbrand.com
 meta.com
+linkedin.com
+licdn.com
+linkedin.cn
