@@ -54,4 +54,6 @@ web.whatsapp.com
 whatsapp.com
 static.whatsapp.net
 whatsapp.net
-
+wa.me
+whatsappbrand.com
+meta.com
