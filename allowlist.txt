@@ -68,3 +68,13 @@ hotmail.com
 powerbi.com
 sharepoint.com
 teams.microsoft.com
+vbr.butler.veeam.com
+autolk.veeam.com
+dev.veeam.com
+vbrad.butler.veeam.com
+vbrce.butler.veeam.com
+rest-ai.veeam.com
+cloudfront.net
+amazonaws.com
+amazontrust.com
+ss2.us
