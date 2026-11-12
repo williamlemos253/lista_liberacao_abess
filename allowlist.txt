@@ -61,3 +61,10 @@ linkedin.com
 licdn.com
 linkedin.cn
 cloudflareinsights.com
+microsoft.com
+office.com
+outlook.com
+hotmail.com
+powerbi.com
+sharepoint.com
+teams.microsoft.com
